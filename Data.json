@@ -1,0 +1,45 @@
+{
+    "TickData": [
+      {
+        "network": "MANTA",
+        "poolAddress": "0xfee7CAAE3540d7dbE325B34e57E596139cC81f4E",
+        "vaultAddress": "0x713C1300f82009162cC908dC9D82304A51F05A3E",
+        "Stratergy Address": "0x70527810CB658FaDBe16845485fC79EC7722c860",
+        "tickSpacing": 1,
+        "currentTick": -1,
+        "Lower Tick": -30,
+        "Upper Tick": 30
+      },
+      {
+        "network": "MANTA",
+        "poolAddress": "0xD7f09148Eb22686Cb5Dcbdd0cF27D04123d14c74",
+        "vaultAddress": "0x5f247B216E46fD86A09dfAB377d9DBe62E9dECDA",
+        "tickSpacing": 10,
+        "currentTick": -197513,
+        "Stratergy Address": "0x4778CAAa0E52F0B58eAF5e947Ae81A0a10cDe707",
+        "Lower Tick": -204230,
+        "Upper Tick": -190360
+      },
+      {
+        "network": "BASE",
+        "poolAddress": "0xc9034c3E7F58003E6ae0C8438e7c8f4598d5ACAA",
+        "vaultAddress": "0x67e07BFfce318ADbA7b08618CBf4B8E271499197",
+        "tickSpacing": 60,
+        "currentTick": 134003,
+        "Stratergy Address": "0x6c6775C38974eB57d06E710020fFF78512BcBfB6",
+        "Lower Tick": 98880,
+        "Upper Tick": 99000
+      },
+      {
+        "network": "DEGEN",
+        "poolAddress": "0x342B19546cD25716E9D709DF87049ea5885d298F",
+        "vaultAddress": "0xB9107C1Ad02bD2E20692499156F99411297d23F5",
+       " Stratergy Address": "0xBC91a7a0eE37085af193C61747ecE693979Ec0C1",
+        "tickSpacing": 200,
+        "currentTick": -133613,
+        "Lower Tick": -135400,
+        "Upper Tick": -121600
+      }
+    ]
+  }
+  
